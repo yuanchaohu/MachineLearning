@@ -1,0 +1,210 @@
+1
+epsilon1
+epsilon2
+sigma
+fB
+epsilon1^2
+epsilon1 epsilon2
+epsilon1 sigma
+epsilon1 fB
+epsilon2^2
+epsilon2 sigma
+epsilon2 fB
+sigma^2
+sigma fB
+fB^2
+epsilon1^3
+epsilon1^2 epsilon2
+epsilon1^2 sigma
+epsilon1^2 fB
+epsilon1 epsilon2^2
+epsilon1 epsilon2 sigma
+epsilon1 epsilon2 fB
+epsilon1 sigma^2
+epsilon1 sigma fB
+epsilon1 fB^2
+epsilon2^3
+epsilon2^2 sigma
+epsilon2^2 fB
+epsilon2 sigma^2
+epsilon2 sigma fB
+epsilon2 fB^2
+sigma^3
+sigma^2 fB
+sigma fB^2
+fB^3
+epsilon1^4
+epsilon1^3 epsilon2
+epsilon1^3 sigma
+epsilon1^3 fB
+epsilon1^2 epsilon2^2
+epsilon1^2 epsilon2 sigma
+epsilon1^2 epsilon2 fB
+epsilon1^2 sigma^2
+epsilon1^2 sigma fB
+epsilon1^2 fB^2
+epsilon1 epsilon2^3
+epsilon1 epsilon2^2 sigma
+epsilon1 epsilon2^2 fB
+epsilon1 epsilon2 sigma^2
+epsilon1 epsilon2 sigma fB
+epsilon1 epsilon2 fB^2
+epsilon1 sigma^3
+epsilon1 sigma^2 fB
+epsilon1 sigma fB^2
+epsilon1 fB^3
+epsilon2^4
+epsilon2^3 sigma
+epsilon2^3 fB
+epsilon2^2 sigma^2
+epsilon2^2 sigma fB
+epsilon2^2 fB^2
+epsilon2 sigma^3
+epsilon2 sigma^2 fB
+epsilon2 sigma fB^2
+epsilon2 fB^3
+sigma^4
+sigma^3 fB
+sigma^2 fB^2
+sigma fB^3
+fB^4
+epsilon1^5
+epsilon1^4 epsilon2
+epsilon1^4 sigma
+epsilon1^4 fB
+epsilon1^3 epsilon2^2
+epsilon1^3 epsilon2 sigma
+epsilon1^3 epsilon2 fB
+epsilon1^3 sigma^2
+epsilon1^3 sigma fB
+epsilon1^3 fB^2
+epsilon1^2 epsilon2^3
+epsilon1^2 epsilon2^2 sigma
+epsilon1^2 epsilon2^2 fB
+epsilon1^2 epsilon2 sigma^2
+epsilon1^2 epsilon2 sigma fB
+epsilon1^2 epsilon2 fB^2
+epsilon1^2 sigma^3
+epsilon1^2 sigma^2 fB
+epsilon1^2 sigma fB^2
+epsilon1^2 fB^3
+epsilon1 epsilon2^4
+epsilon1 epsilon2^3 sigma
+epsilon1 epsilon2^3 fB
+epsilon1 epsilon2^2 sigma^2
+epsilon1 epsilon2^2 sigma fB
+epsilon1 epsilon2^2 fB^2
+epsilon1 epsilon2 sigma^3
+epsilon1 epsilon2 sigma^2 fB
+epsilon1 epsilon2 sigma fB^2
+epsilon1 epsilon2 fB^3
+epsilon1 sigma^4
+epsilon1 sigma^3 fB
+epsilon1 sigma^2 fB^2
+epsilon1 sigma fB^3
+epsilon1 fB^4
+epsilon2^5
+epsilon2^4 sigma
+epsilon2^4 fB
+epsilon2^3 sigma^2
+epsilon2^3 sigma fB
+epsilon2^3 fB^2
+epsilon2^2 sigma^3
+epsilon2^2 sigma^2 fB
+epsilon2^2 sigma fB^2
+epsilon2^2 fB^3
+epsilon2 sigma^4
+epsilon2 sigma^3 fB
+epsilon2 sigma^2 fB^2
+epsilon2 sigma fB^3
+epsilon2 fB^4
+sigma^5
+sigma^4 fB
+sigma^3 fB^2
+sigma^2 fB^3
+sigma fB^4
+fB^5
+epsilon1^6
+epsilon1^5 epsilon2
+epsilon1^5 sigma
+epsilon1^5 fB
+epsilon1^4 epsilon2^2
+epsilon1^4 epsilon2 sigma
+epsilon1^4 epsilon2 fB
+epsilon1^4 sigma^2
+epsilon1^4 sigma fB
+epsilon1^4 fB^2
+epsilon1^3 epsilon2^3
+epsilon1^3 epsilon2^2 sigma
+epsilon1^3 epsilon2^2 fB
+epsilon1^3 epsilon2 sigma^2
+epsilon1^3 epsilon2 sigma fB
+epsilon1^3 epsilon2 fB^2
+epsilon1^3 sigma^3
+epsilon1^3 sigma^2 fB
+epsilon1^3 sigma fB^2
+epsilon1^3 fB^3
+epsilon1^2 epsilon2^4
+epsilon1^2 epsilon2^3 sigma
+epsilon1^2 epsilon2^3 fB
+epsilon1^2 epsilon2^2 sigma^2
+epsilon1^2 epsilon2^2 sigma fB
+epsilon1^2 epsilon2^2 fB^2
+epsilon1^2 epsilon2 sigma^3
+epsilon1^2 epsilon2 sigma^2 fB
+epsilon1^2 epsilon2 sigma fB^2
+epsilon1^2 epsilon2 fB^3
+epsilon1^2 sigma^4
+epsilon1^2 sigma^3 fB
+epsilon1^2 sigma^2 fB^2
+epsilon1^2 sigma fB^3
+epsilon1^2 fB^4
+epsilon1 epsilon2^5
+epsilon1 epsilon2^4 sigma
+epsilon1 epsilon2^4 fB
+epsilon1 epsilon2^3 sigma^2
+epsilon1 epsilon2^3 sigma fB
+epsilon1 epsilon2^3 fB^2
+epsilon1 epsilon2^2 sigma^3
+epsilon1 epsilon2^2 sigma^2 fB
+epsilon1 epsilon2^2 sigma fB^2
+epsilon1 epsilon2^2 fB^3
+epsilon1 epsilon2 sigma^4
+epsilon1 epsilon2 sigma^3 fB
+epsilon1 epsilon2 sigma^2 fB^2
+epsilon1 epsilon2 sigma fB^3
+epsilon1 epsilon2 fB^4
+epsilon1 sigma^5
+epsilon1 sigma^4 fB
+epsilon1 sigma^3 fB^2
+epsilon1 sigma^2 fB^3
+epsilon1 sigma fB^4
+epsilon1 fB^5
+epsilon2^6
+epsilon2^5 sigma
+epsilon2^5 fB
+epsilon2^4 sigma^2
+epsilon2^4 sigma fB
+epsilon2^4 fB^2
+epsilon2^3 sigma^3
+epsilon2^3 sigma^2 fB
+epsilon2^3 sigma fB^2
+epsilon2^3 fB^3
+epsilon2^2 sigma^4
+epsilon2^2 sigma^3 fB
+epsilon2^2 sigma^2 fB^2
+epsilon2^2 sigma fB^3
+epsilon2^2 fB^4
+epsilon2 sigma^5
+epsilon2 sigma^4 fB
+epsilon2 sigma^3 fB^2
+epsilon2 sigma^2 fB^3
+epsilon2 sigma fB^4
+epsilon2 fB^5
+sigma^6
+sigma^5 fB
+sigma^4 fB^2
+sigma^3 fB^3
+sigma^2 fB^4
+sigma fB^5
+fB^6

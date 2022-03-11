@@ -1,0 +1,211 @@
+,i,coeff,abs,term
+0,21,0.8066760000000001,0.8066760000000001,epsilon1 epsilon2 fB
+1,8,0.638518,0.638518,epsilon1 fB
+209,11,-0.527374,0.527374,epsilon2 fB
+208,30,-0.483641,0.483641,epsilon2 fB^2
+2,1,0.35249400000000003,0.35249400000000003,epsilon1
+207,18,-0.33381700000000003,0.33381700000000003,epsilon1^2 fB
+206,4,-0.316349,0.316349,fB
+205,2,-0.28389200000000003,0.28389200000000003,epsilon2
+204,9,-0.27015300000000003,0.27015300000000003,epsilon2^2
+3,6,0.249259,0.249259,epsilon1 epsilon2
+203,5,-0.22865700000000003,0.22865700000000003,epsilon1^2
+4,50,0.22360500000000003,0.22360500000000003,epsilon1 epsilon2 fB^2
+202,99,-0.211441,0.211441,epsilon1 epsilon2 fB^3
+5,24,0.205508,0.205508,epsilon1 fB^2
+201,41,-0.196757,0.196757,epsilon1^2 epsilon2 fB
+200,14,-0.162913,0.162913,fB^2
+6,119,0.143769,0.143769,epsilon2 fB^4
+199,54,-0.14335,0.14335,epsilon1 fB^3
+7,82,0.135501,0.135501,epsilon1^2 epsilon2^2 fB
+198,16,-0.12862300000000002,0.12862300000000002,epsilon1^2 epsilon2
+8,25,0.12503699999999998,0.12503699999999998,epsilon2^3
+197,92,-0.102101,0.102101,epsilon1 epsilon2^3 fB
+9,89,0.09504299999999999,0.09504299999999999,epsilon1^2 fB^3
+196,45,-0.09396,0.09396,epsilon1 epsilon2^3
+10,155,0.092919,0.092919,epsilon1^2 epsilon2 fB^3
+11,39,0.08333600000000001,0.08333600000000001,epsilon1^2 epsilon2^2
+12,15,0.08013300000000001,0.08013300000000001,epsilon1^3
+13,57,0.073046,0.073046,epsilon2^3 fB
+195,104,-0.07159299999999999,0.07159299999999999,epsilon1 fB^4
+194,95,-0.06911,0.06911,epsilon1 epsilon2^2 fB^2
+193,27,-0.06722,0.06722,epsilon2^2 fB
+192,175,-0.06680499999999999,0.06680499999999999,epsilon1 epsilon2 fB^4
+191,44,-0.063354,0.063354,epsilon1^2 fB^2
+190,55,-0.062457000000000006,0.062457000000000006,epsilon2^4
+14,38,0.05999500000000001,0.05999500000000001,epsilon1^3 fB
+189,47,-0.056235,0.056235,epsilon1 epsilon2^2 fB
+188,64,-0.048345,0.048345,epsilon2 fB^3
+15,36,0.045801999999999995,0.045801999999999995,epsilon1^3 epsilon2
+16,151,0.04315,0.04315,epsilon1^2 epsilon2^2 fB^2
+17,90,0.04287,0.04287,epsilon1 epsilon2^4
+18,202,0.041809,0.041809,epsilon2 fB^5
+187,19,-0.040167,0.040167,epsilon1 epsilon2^2
+186,74,-0.038058999999999996,0.038058999999999996,epsilon1^3 epsilon2^2
+185,35,-0.038038999999999996,0.038038999999999996,epsilon1^4
+19,160,0.033124,0.033124,epsilon1^2 fB^4
+20,85,0.031214999999999996,0.031214999999999996,epsilon1^2 epsilon2 fB^2
+21,110,0.028875,0.028875,epsilon2^3 fB^2
+184,166,-0.028599,0.028599,epsilon1 epsilon2^3 fB^2
+183,73,-0.028114999999999998,0.028114999999999998,epsilon1^4 fB
+22,209,0.026668,0.026668,fB^6
+182,141,-0.026588,0.026588,epsilon1^3 epsilon2 fB^2
+23,105,0.022258,0.022258,epsilon2^5
+24,125,0.021405,0.021405,fB^5
+181,80,-0.017531,0.017531,epsilon1^2 epsilon2^3
+180,79,-0.016284,0.016284,epsilon1^3 fB^2
+179,71,-0.016271,0.016271,epsilon1^4 epsilon2
+178,132,-0.015671,0.015671,epsilon1^4 epsilon2 fB
+25,191,0.015405,0.015405,epsilon2^3 fB^3
+177,34,-0.015271000000000002,0.015271000000000002,fB^3
+26,76,0.014925999999999998,0.014925999999999998,epsilon1^3 epsilon2 fB
+27,163,0.01464,0.01464,epsilon1 epsilon2^4 fB
+176,170,-0.011144,0.011144,epsilon1 epsilon2^2 fB^3
+175,148,-0.010939,0.010939,epsilon1^2 epsilon2^3 fB
+28,70,0.010487,0.010487,epsilon1^5
+174,181,-0.010004,0.010004,epsilon1 fB^5
+173,114,-0.009412,0.009412,epsilon2^2 fB^3
+172,138,-0.009152,0.009152,epsilon1^3 epsilon2^2 fB
+171,129,-0.008383,0.008383,epsilon1^5 fB
+170,135,-0.008234,0.008234,epsilon1^4 fB^2
+29,126,0.007742,0.007742,epsilon1^6
+169,69,-0.006979000000000001,0.006979000000000001,fB^4
+30,136,0.0061990000000000005,0.0061990000000000005,epsilon1^3 epsilon2^3
+168,60,-0.0047009999999999994,0.0047009999999999994,epsilon2^2 fB^2
+31,145,0.00455,0.00455,epsilon1^3 fB^3
+167,161,-0.004534000000000001,0.004534000000000001,epsilon1 epsilon2^5
+166,130,-0.0044009999999999995,0.0044009999999999995,epsilon1^4 epsilon2^2
+32,146,0.0043630000000000006,0.0043630000000000006,epsilon1^2 epsilon2^4
+33,127,0.00391,0.00391,epsilon1^5 epsilon2
+165,182,-0.003243,0.003243,epsilon2^6
+34,187,0.0029,0.0029,epsilon2^4 fB^2
+164,184,-0.002397,0.002397,epsilon2^5 fB
+35,107,0.001991,0.001991,epsilon2^4 fB
+36,196,0.001179,0.001179,epsilon2^2 fB^4
+128,176,0.0,0.0,epsilon1 sigma^5
+129,198,0.0,0.0,epsilon2 sigma^4 fB
+141,133,0.0,0.0,epsilon1^4 sigma^2
+126,197,0.0,0.0,epsilon2 sigma^5
+143,131,0.0,0.0,epsilon1^4 epsilon2 sigma
+140,137,0.0,0.0,epsilon1^3 epsilon2^2 sigma
+139,124,0.0,0.0,sigma fB^4
+138,134,0.0,0.0,epsilon1^4 sigma fB
+137,158,0.0,0.0,epsilon1^2 sigma^2 fB^2
+136,153,0.0,0.0,epsilon1^2 epsilon2 sigma^2 fB
+135,199,0.0,0.0,epsilon2 sigma^3 fB^2
+134,177,0.0,0.0,epsilon1 sigma^4 fB
+133,178,0.0,0.0,epsilon1 sigma^3 fB^2
+132,179,0.0,0.0,epsilon1 sigma^2 fB^3
+127,185,0.0,0.0,epsilon2^4 sigma^2
+131,180,0.0,0.0,epsilon1 sigma fB^4
+130,183,0.0,0.0,epsilon2^5 sigma
+142,205,0.0,0.0,sigma^4 fB^2
+158,150,0.0,0.0,epsilon1^2 epsilon2^2 sigma fB
+144,206,0.0,0.0,sigma^3 fB^3
+155,115,0.0,0.0,epsilon2 sigma^4
+124,189,0.0,0.0,epsilon2^3 sigma^2 fB
+163,144,0.0,0.0,epsilon1^3 sigma fB^2
+162,147,0.0,0.0,epsilon1^2 epsilon2^3 sigma
+161,142,0.0,0.0,epsilon1^3 sigma^3
+160,149,0.0,0.0,epsilon1^2 epsilon2^2 sigma^2
+159,143,0.0,0.0,epsilon1^3 sigma^2 fB
+157,195,0.0,0.0,epsilon2^2 sigma fB^3
+156,139,0.0,0.0,epsilon1^3 epsilon2 sigma^2
+154,116,0.0,0.0,epsilon2 sigma^3 fB
+145,128,0.0,0.0,epsilon1^5 sigma
+153,117,0.0,0.0,epsilon2 sigma^2 fB^2
+152,118,0.0,0.0,epsilon2 sigma fB^3
+151,120,0.0,0.0,sigma^5
+150,121,0.0,0.0,sigma^4 fB
+149,122,0.0,0.0,sigma^3 fB^2
+148,140,0.0,0.0,epsilon1^3 epsilon2 sigma fB
+147,123,0.0,0.0,sigma^2 fB^3
+146,207,0.0,0.0,sigma^2 fB^4
+125,188,0.0,0.0,epsilon2^3 sigma^3
+106,204,0.0,0.0,sigma^5 fB
+123,190,0.0,0.0,epsilon2^3 sigma fB^2
+67,23,0.0,0.0,epsilon1 sigma fB
+59,102,0.0,0.0,epsilon1 sigma^2 fB^2
+60,103,0.0,0.0,epsilon1 sigma fB^3
+61,97,0.0,0.0,epsilon1 epsilon2 sigma^2 fB
+62,28,0.0,0.0,epsilon2 sigma^2
+63,78,0.0,0.0,epsilon1^3 sigma fB
+64,43,0.0,0.0,epsilon1^2 sigma fB
+65,52,0.0,0.0,epsilon1 sigma^2 fB
+66,51,0.0,0.0,epsilon1 sigma^3
+68,49,0.0,0.0,epsilon1 epsilon2 sigma fB
+57,100,0.0,0.0,epsilon1 sigma^4
+69,48,0.0,0.0,epsilon1 epsilon2 sigma^2
+70,46,0.0,0.0,epsilon1 epsilon2^2 sigma
+71,42,0.0,0.0,epsilon1^2 sigma^2
+72,77,0.0,0.0,epsilon1^3 sigma^2
+73,40,0.0,0.0,epsilon1^2 epsilon2 sigma
+74,26,0.0,0.0,epsilon2^2 sigma
+75,37,0.0,0.0,epsilon1^3 sigma
+76,33,0.0,0.0,sigma fB^2
+58,101,0.0,0.0,epsilon1 sigma^3 fB
+56,106,0.0,0.0,epsilon2^4 sigma
+122,192,0.0,0.0,epsilon2^2 sigma^4
+45,83,0.0,0.0,epsilon1^2 epsilon2 sigma^2
+37,12,0.0,0.0,sigma^2
+38,88,0.0,0.0,epsilon1^2 sigma fB^2
+39,87,0.0,0.0,epsilon1^2 sigma^2 fB
+40,86,0.0,0.0,epsilon1^2 sigma^3
+41,3,0.0,0.0,sigma
+42,10,0.0,0.0,epsilon2 sigma
+43,109,0.0,0.0,epsilon2^3 sigma fB
+44,84,0.0,0.0,epsilon1^2 epsilon2 sigma fB
+46,13,0.0,0.0,sigma fB
+55,98,0.0,0.0,epsilon1 epsilon2 sigma fB^2
+47,81,0.0,0.0,epsilon1^2 epsilon2^2 sigma
+48,108,0.0,0.0,epsilon2^3 sigma^2
+49,91,0.0,0.0,epsilon1 epsilon2^3 sigma
+50,7,0.0,0.0,epsilon1 sigma
+51,208,0.0,0.0,sigma fB^5
+52,93,0.0,0.0,epsilon1 epsilon2^2 sigma^2
+53,94,0.0,0.0,epsilon1 epsilon2^2 sigma fB
+54,96,0.0,0.0,epsilon1 epsilon2 sigma^3
+77,32,0.0,0.0,sigma^2 fB
+78,31,0.0,0.0,sigma^3
+79,53,0.0,0.0,epsilon1 sigma fB^2
+112,159,0.0,0.0,epsilon1^2 sigma fB^3
+102,172,0.0,0.0,epsilon1 epsilon2 sigma^3 fB
+103,171,0.0,0.0,epsilon1 epsilon2 sigma^4
+104,169,0.0,0.0,epsilon1 epsilon2^2 sigma fB^2
+107,167,0.0,0.0,epsilon1 epsilon2^2 sigma^3
+108,201,0.0,0.0,epsilon2 sigma fB^4
+109,165,0.0,0.0,epsilon1 epsilon2^3 sigma fB
+110,164,0.0,0.0,epsilon1 epsilon2^3 sigma^2
+111,162,0.0,0.0,epsilon1 epsilon2^4 sigma
+113,157,0.0,0.0,epsilon1^2 sigma^3 fB
+80,56,0.0,0.0,epsilon2^3 sigma
+114,156,0.0,0.0,epsilon1^2 sigma^4
+115,154,0.0,0.0,epsilon1^2 epsilon2 sigma fB^2
+116,203,0.0,0.0,sigma^6
+117,200,0.0,0.0,epsilon2 sigma^2 fB^3
+118,152,0.0,0.0,epsilon1^2 epsilon2 sigma^3
+119,186,0.0,0.0,epsilon2^4 sigma fB
+120,194,0.0,0.0,epsilon2^2 sigma^2 fB^2
+121,193,0.0,0.0,epsilon2^2 sigma^3 fB
+101,173,0.0,0.0,epsilon1 epsilon2 sigma^2 fB^2
+100,174,0.0,0.0,epsilon1 epsilon2 sigma fB^3
+99,113,0.0,0.0,epsilon2^2 sigma fB^2
+98,112,0.0,0.0,epsilon2^2 sigma^2 fB
+81,22,0.0,0.0,epsilon1 sigma^2
+82,58,0.0,0.0,epsilon2^2 sigma^2
+83,59,0.0,0.0,epsilon2^2 sigma fB
+84,61,0.0,0.0,epsilon2 sigma^3
+85,111,0.0,0.0,epsilon2^2 sigma^3
+86,20,0.0,0.0,epsilon1 epsilon2 sigma
+87,63,0.0,0.0,epsilon2 sigma fB^2
+88,65,0.0,0.0,sigma^4
+89,66,0.0,0.0,sigma^3 fB
+90,67,0.0,0.0,sigma^2 fB^2
+91,68,0.0,0.0,sigma fB^3
+92,72,0.0,0.0,epsilon1^4 sigma
+93,17,0.0,0.0,epsilon1^2 sigma
+94,75,0.0,0.0,epsilon1^3 epsilon2 sigma
+95,29,0.0,0.0,epsilon2 sigma fB
+96,62,0.0,0.0,epsilon2 sigma^2 fB
+97,0,0.0,0.0,1
+105,168,0.0,0.0,epsilon1 epsilon2^2 sigma^2 fB
